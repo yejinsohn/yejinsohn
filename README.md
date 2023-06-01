@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yejin's GitHub&fontSize=90)
+
 ### Hi there 👋
 
 <!--
