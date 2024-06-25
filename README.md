@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Yejin's%20GitHub&fontSize=60)
 
-<p align="center">
+<div align="center">
   <h3>🛠️ Tech Stack </h3>
 
 
@@ -13,7 +13,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinsohn&show_icons=true&hide=stars,prs&count_private=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinsohn&layout=compact&theme=transparent)
 
-</p>
+</div>
 
 
 
