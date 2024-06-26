@@ -3,9 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Yejin's%20GitHub&fontSize=60&fontColor=FFFFFF)
   
   <h3>🛠️ Tech Stack 🛠️</h3>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
@@ -26,15 +26,14 @@
     <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/>
     
-
-    
   <br>
-
   <h3>✨ Contact me ✨</h3>  
     <a href="mailto:sonyejin2449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sonyejin2449@gmail.com"/></a>
+    <a href="https://m.blog.naver.com/sonyejin6354"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://m.blog.naver.com/sonyejin6354"/></a>
+<br>
+<br>
+<br>
 
-  <hr>
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinsohn&show_icons=true&hide=stars,prs&count_private=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinsohn&layout=compact&theme=transparent)
 
