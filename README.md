@@ -27,9 +27,11 @@
     <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/>
     
   <br>
+  
   <h3>✨ Contact me ✨</h3>  
     <a href="mailto:sonyejin2449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sonyejin2449@gmail.com"/></a>
     <a href="https://m.blog.naver.com/sonyejin6354"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://m.blog.naver.com/sonyejin6354"/></a>
+    
 <br>
 <br>
 <br>
