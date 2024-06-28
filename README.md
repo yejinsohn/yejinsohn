@@ -36,7 +36,9 @@
 <br>
 <br>
 
+  <!--
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejinsohn&show_icons=true&hide=stars,prs&count_private=true&theme=transparent)
+   -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejinsohn&layout=compact&theme=transparent)
 
 </div>
